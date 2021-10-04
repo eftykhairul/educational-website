@@ -1,0 +1,38 @@
+[
+    {
+    "id": "101301",
+    "name": "SSC A to Z",
+    "instractor": "Azmir Sir",
+    "email": "azmir@gmail.com",
+    "duration": "1 month",
+    "price" : 3000,
+    "images": "https://4.bp.blogspot.com/-I4b3tlWUK20/WEmvVvkw23I/AAAAAAAAKtg/fAJb6pTS79k77tfiIMtKBAgk61a0uGVrgCLcB/s1600/class-9-10%2BBooks%2Bpdf%2Bfree%2BDownload%2BBangladesh.jpg"
+    },
+    {
+    "id": "101302",
+    "name": "HSC A to Z",
+    "instractor": "Azmir Sir",
+    "email": "azmir@gmail.com",
+    "duration": "3 month",
+    "price" : 3000,
+    "images": "https://bdebooks.com/wp-content/uploads/2020/02/Untitled-design-8-724x1024.jpg"
+    },
+    {
+    "id": "101305",
+    "name": "Math Mania",
+    "instractor": "Mahbub Sir",
+    "email": "mahbub@gmail.com",
+    "duration": "1.5 month",
+    "price" : 3000,
+    "images": "https://4.bp.blogspot.com/-eV6S0ht0un4/Vz3S-PWSa4I/AAAAAAAAAjE/7-1r-y3Bh8wWdfh-AoaOn6pppCmrcJUegCLcB/s1600/Math-1.jpg"
+    },
+    {
+    "id": "101308",
+    "name": "Bangla Full Course",
+    "instractor": "Wali Sir",
+    "price" : 3000,
+    "email": "wali@gmail.com",
+    "duration": "2 month",
+    "images": "https://4.bp.blogspot.com/-C6u_1--68_Y/WH_UPq9KibI/AAAAAAAAAOk/bTERzelW4wADqbKidKqWn3x0a30lHNM5ACLcB/s1600/9%2Bbangla.PNG"
+    }
+]

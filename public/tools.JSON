@@ -1,0 +1,93 @@
+[
+    {
+    "id": "1",
+    "name": "SSC A to Z",
+    "instractor": "Azmir Sir",
+    "email": "azmir@gmail.com",
+    "duration": "1 month",
+    "price" : 3000,
+    "images": "https://4.bp.blogspot.com/-I4b3tlWUK20/WEmvVvkw23I/AAAAAAAAKtg/fAJb6pTS79k77tfiIMtKBAgk61a0uGVrgCLcB/s1600/class-9-10%2BBooks%2Bpdf%2Bfree%2BDownload%2BBangladesh.jpg"
+    },
+    {
+    "id": "2",
+    "name": "HSC A to Z",
+    "instractor": "Azmir Sir",
+    "email": "azmir@gmail.com",
+    "duration": "3 month",
+    "price" : 3000,
+    "images": "https://bdebooks.com/wp-content/uploads/2020/02/Untitled-design-8-724x1024.jpg"
+    },
+    {
+    "id": "3",
+    "name": "Math Mania",
+    "instractor": "Mahbub Sir",
+    "email": "mahbub@gmail.com",
+    "duration": "1.5 month",
+    "price" : 3000,
+    "images": "https://4.bp.blogspot.com/-eV6S0ht0un4/Vz3S-PWSa4I/AAAAAAAAAjE/7-1r-y3Bh8wWdfh-AoaOn6pppCmrcJUegCLcB/s1600/Math-1.jpg"
+    },
+    {
+    "id": "4",
+    "name": "Bangla Full Course",
+    "instractor": "Wali Sir",
+    "email": "wali@gmail.com",
+    "duration": "2 month",
+    "price" : 3000,
+    "images": "https://4.bp.blogspot.com/-C6u_1--68_Y/WH_UPq9KibI/AAAAAAAAAOk/bTERzelW4wADqbKidKqWn3x0a30lHNM5ACLcB/s1600/9%2Bbangla.PNG"
+    },
+    {
+    "id": "5",
+    "name": "English 1st and 2nd Paper Complete",
+    "instractor": "Eshak Sir",
+    "email": "eshak@gmail.com",
+    "duration": "3 month",
+    "price" : 3000,
+    "images": "https://1.bp.blogspot.com/-9v_DKhtlDxo/Xj_iQQpVu7I/AAAAAAAALis/VngDbOVWPeoi27LVf0FgKuIP8bYi9qJHQCLcBGAsYHQ/s1600/%25E0%25A6%25A8%25E0%25A6%25AC%25E0%25A6%25AE-%25E0%25A6%2593-%25E0%25A6%25A6%25E0%25A6%25B6%25E0%25A6%25AE-%25E0%25A6%25B6%25E0%25A7%258D%25E0%25A6%25B0%25E0%25A7%2587%25E0%25A6%25A3%25E0%25A6%25BF%25E0%25A6%25B0-%25E0%25A6%2587%25E0%25A6%2582%25E0%25A6%25B0%25E0%25A7%2587%25E0%25A6%259C%25E0%25A6%25BF.jpg"
+    },
+    {
+    "id": "6",
+    "name": "Chemestry Mania",
+    "instractor": "Mahbub Alam Sir",
+    "email": "alam@gmail.com",
+    "duration": "3 month",
+    "price" : 3000,
+    "images": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/47db3bfbd_201887.jpg"
+    },
+    {
+    "id": "7",
+    "name": "Physics Full Guide",
+    "instractor": "Tanvir Sir",
+    "email": "tanvir@gmail.com",
+    "duration": "3 month",
+    "price" : 3000,
+    "images": "https://1.bp.blogspot.com/-SO13ZQqYeXM/YIeJRGQcK5I/AAAAAAAAIt4/DPUH5iUnzIUOLVUb9D-I2hTUWgQi3BJPwCLcBGAsYHQ/s858/Screenshot_20210427-092210%257E2.png"
+    },
+    {
+    "id": "8",
+    "name": "Higher Math Complete",
+    "instractor": "Mamun Sir",
+    "email": "mamun@gmail.com",
+    "duration": "3.5 month",
+    "price" : 3000,
+    "images": "https://1.bp.blogspot.com/-Uep_taeKWf8/Vz3S6PLeCkI/AAAAAAAAAi8/3BDU9oCImGsV5Vg_Qm619NsnfxgPeqXNwCLcB/s1600/Higher%2BMath-1.jpg"
+    },
+    {
+    "id": "9",
+    "name": "ICT Full Syllabus",
+    "instractor": "Saiful Sir",
+    "email": "saiful@gmail.com",
+    "duration": "1.5 month",
+    "price" : 3000,
+    "images": "https://2.bp.blogspot.com/-b0zBkIiaBz8/WZiEPazZkNI/AAAAAAAAPrw/GMUuUj6PX2wzQ0Le2TFkQhyvAzvOwW7PQCLcBGAs/s1600/Information%2Band%2BCommunications%2BTechnology%2BText%2BBook%2BClass%2B11%252C%2B12.jpg"
+    },
+    {
+    "id": "10",
+    "name": "Last Time Full Preparation ",
+    "instractor": "Educare",
+    "email": "educare@gmail.com",
+    "duration": "1 month",
+    "price" : 3000,
+    "images": "https://lecturepublications.org/front/images/book-list/1230HSC%20HIGHER%20MATHEMATICS-1-%202021%20final.jpg"
+    }
+    
+]

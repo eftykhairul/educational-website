@@ -1,0 +1,93 @@
+[
+    {
+    "id": "1",
+    "course": "SSC A to Z",
+    "instractor": "Azmir Sir",
+    "email": "azmir@gmail.com",
+    "duration": "1 month",
+    "salary" : 6000,
+    "images": "https://blogs.worldbank.org/sites/default/files/styles/hero/public/2021-05/teacherperformance.jpg?itok=9rPnDrOx"
+    },
+    {
+    "id": "2",
+    "course": "HSC A to Z",
+    "instractor": "Azmir Mamun Sir",
+    "email": "azmirM@gmail.com",
+    "duration": "3 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/2173508/pexels-photo-2173508.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+    "id": "3",
+    "course": "Math Mania",
+    "instractor": "Mahbub Sir",
+    "email": "mahbub@gmail.com",
+    "duration": "1.5 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+    "id": "4",
+    "course": "Bangla Full Course",
+    "instractor": "Wali Sir",
+    "email": "wali@gmail.com",
+    "duration": "2 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/1181398/pexels-photo-1181398.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+    "id": "5",
+    "course": "English 1st and 2nd Paper Complete",
+    "instractor": "Eshak Sir",
+    "email": "eshak@gmail.com",
+    "duration": "3 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/734168/pexels-photo-734168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+    "id": "6",
+    "course": "Chemestry Mania",
+    "instractor": "Mahbub Alam Sir",
+    "email": "alam@gmail.com",
+    "duration": "3 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/3184317/pexels-photo-3184317.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+    "id": "7",
+    "course": "Physics Full Guide",
+    "instractor": "Tanvir Sir",
+    "email": "tanvir@gmail.com",
+    "duration": "3 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/1708912/pexels-photo-1708912.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+    "id": "8",
+    "course": "Higher Math Complete",
+    "instractor": "Mamun Sir",
+    "email": "mamun@gmail.com",
+    "duration": "3.5 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/3184658/pexels-photo-3184658.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+    "id": "9",
+    "course": "ICT Full Syllabus",
+    "instractor": "Saiful Sir",
+    "email": "saiful@gmail.com",
+    "duration": "1.5 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+    "id": "10",
+    "course": "Last Time Full Preparation ",
+    "instractor": "Ayesha Maa'm",
+    "email": "ayesha@gmail.com",
+    "duration": "1 month",
+    "salary" : 6000,
+    "images": "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+    
+]
